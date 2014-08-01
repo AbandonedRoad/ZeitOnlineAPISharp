@@ -28,7 +28,7 @@ namespace ZeitOnlineAPISharp.Models.Keyword
         public String URI { get; set; }
 
         [JsonProperty("supertitle")]
-        public String Supertitle { get; set; }
+        public String SuperTitle { get; set; }
 
         [JsonProperty("teaser_text")]
         public String TeaserText { get; set; }

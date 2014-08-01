@@ -26,7 +26,7 @@ namespace ZeitOnlineAPISharp.Models.Content
         public List<Relation> Relations { get; set; }
         
         [JsonProperty("supertitle")]
-        public String Supertitle { get; set; }
+        public String SuperTitle { get; set; }
 
         [JsonProperty("href")]
         public String Href { get; set; }
